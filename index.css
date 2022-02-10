@@ -1,0 +1,38 @@
+body{
+        background-color: rgb(238, 165, 187);
+}
+.container{
+        background-color: black;
+        color: sandybrown;
+        padding: 20px;
+        margin: 0px auto;
+        width: 85%;
+        text-align: center;
+}
+label{
+        font-size: 22px;
+}
+
+input{
+        height: 25px;
+       
+        
+}
+
+#result{
+        background-color: white;
+        text-align: center;
+}
+
+button{
+        width: 80px;
+        margin-left: 10px;
+        height: 30px;
+}
+select{
+        height: 30px;
+        text-align: center;
+}
+option{
+        font-size: 13px;
+}
